@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: grid;
+  min-height: 100vh;
+}
+
+#root {
+  display: grid;
+  margin: 10% auto;
+}
+
+input {
+  width: 90vw;
+  font-size: 20vw;
+  text-align: center;
+}
